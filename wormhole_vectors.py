@@ -901,7 +901,7 @@ Examples:
     args = parser.parse_args()
     
     # Configuration - Update these with your Aiven OpenSearch credentials
-    OPENSEARCH_URL = os.getenv("OPENSEARCH_URL", "https://os-91a381d-wormhole-vectors-dev-sandbox.d.aivencloud.com:12691")
+    OPENSEARCH_URL = os.getenv("OPENSEARCH_URL", "your-instance")
     OPENSEARCH_USERNAME = os.getenv("OPENSEARCH_USERNAME", "user")
     OPENSEARCH_PASSWORD = os.getenv("OPENSEARCH_PASSWORD", "password")
     
