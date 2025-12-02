@@ -1,0 +1,5 @@
+opensearch-py>=2.0.0
+sentence-transformers>=2.2.0
+numpy>=1.21.0
+requests>=2.28.0
+
