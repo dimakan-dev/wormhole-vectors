@@ -166,11 +166,12 @@ For production use:
 - Scale OpenSearch cluster according to your needs (we can help out at Aiven)
 
 ## References
-- [Vector Podcast episode with Trey Grainger on Wormhole vector traversal idea](https://github.com/dimakan-dev/wormhole-vectors)
+- [Vector Podcast episode with Trey Grainger on Wormhole vector traversal idea](https://www.youtube.com/watch?v=fvDC7nK-_C0)
 - [OpenSearch k-NN Plugin](https://opensearch.org/docs/latest/search-plugins/knn/index/)
 - [Significant Terms Aggregation](https://opensearch.org/docs/latest/aggregations/bucket/significant-terms/)
 - [Sentence Transformers](https://www.sbert.net/)
-- [Blog post](https://aiven.io/blog)
+- [Blog post](https://aiven.io/blog/beyond-hybrid-search-traversing-vector-spaces-with-wormhole-vectors)
+- [Try wormhole vectors with Aiven for OpenSearch](https://aiven.io/opensearch)
 
 ## License
 
